@@ -1,5 +1,9 @@
 # 📊 Netflix User Behavior & Revenue Analytics (Analisa Data Pengguna Netflix)
 
+![Dashboard 1 (1)](https://github.com/user-attachments/assets/5d0b9047-1135-40a9-b6d9-e02fd8331e3e)
+
+## 📊 Dashboard Tableau
+[Netflix User Behavior & Revenue Dashboard](https://public.tableau.com/app/profile/dion.sandy.ara.tambunan/viz/NetflixUserBehaviorRevenueAnalyticsDashboard/Dashboard1)
 
 ## 📋 Ringkasan
 Proyek ini menganalisis data pengguna Netflix untuk mengungkap wawasan tentang perilaku pelanggan, pola pendapatan, dan tren demografis. Menggunakan SQL untuk analisis data dan Tableau untuk visualisasi, analisis ini memberikan pemahaman komprehensif tentang basis pengguna Netflix dan pola berlangganan.
@@ -65,10 +69,6 @@ Analisis mencakup:
 - Preferensi langganan berdasarkan gender
 - Distribusi usia dalam kelompok gender
 - Pola pendapatan berdasarkan gender
-
-
-## 📊 Dashboard Tableau
-[Netflix User Behavior & Revenue Dashboard](https://public.tableau.com/app/profile/dion.sandy.ara.tambunan/viz/NetflixUserBehaviorRevenueAnalyticsDashboard/Dashboard1)
 
 
 ## 🔍 Detail Analisis SQL
