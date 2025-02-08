@@ -70,6 +70,27 @@ Analisis mencakup:
 - Distribusi usia dalam kelompok gender
 - Pola pendapatan berdasarkan gender
 
+## 💡 Rekomendasi
+1. **Optimasi Paket Berlangganan**
+   - Mengembangkan strategi upgrade untuk pengguna Basic ke Premium, mengingat Premium menghasilkan pendapatan tertinggi
+   - Mempertimbangkan paket khusus untuk pengguna tablet dan laptop yang menunjukkan engagement tinggi
+
+2. **Strategi Pemasaran Demografis**
+   - Fokus kampanye pada kelompok usia 35-44 tahun yang menunjukkan nilai tertinggi
+   - Mengembangkan program retensi khusus untuk kelompok usia lain untuk meningkatkan engagement
+
+3. **Ekspansi Pasar**
+   - Memperkuat penetrasi pasar di Spanyol, AS, dan Inggris yang menunjukkan performa terbaik
+   - Menganalisis strategi sukses di negara-negara tersebut untuk direplikasi di pasar lain
+
+4. **Pengembangan Platform**
+   - Meningkatkan pengalaman pengguna di Smart TV untuk mendorong adopsi yang lebih tinggi
+   - Mempertahankan kualitas layanan di platform tablet dan laptop yang sudah menunjukkan performa baik
+
+5. **Manajemen Pertumbuhan**
+   - Memanfaatkan momentum pertumbuhan tinggi (seperti periode Juli-Oktober) untuk kampanye akuisisi
+   - Mengembangkan strategi retensi untuk mempertahankan pengguna setelah periode pertumbuhan tinggi
+
 
 ## 🔍 Detail Analisis SQL
 Analisis menggunakan berbagai teknik SQL termasuk:
